@@ -1,2 +1,2 @@
 # Python
- Exercio de cadastro de pessoas
+ Exercício de cadastro de pessoas
