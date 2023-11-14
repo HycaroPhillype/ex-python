@@ -1,2 +1,2 @@
-# ex-python
+# Python
  Exercio de cadastro de pessoas
