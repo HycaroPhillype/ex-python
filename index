@@ -20,7 +20,7 @@ for p in range(1, 5):
         somaidade += 1
 media += somaidade / 4
 sleep(1)
-print('\033[1;33mFAZENDO ANALISE...\033[m')
+print('\033[1;33mFAZENDO ANÁLISE...\033[m')
 sleep(2)
 print(f'A média da idade do grupo é {media}')
 sleep(3)
