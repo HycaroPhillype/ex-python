@@ -22,7 +22,7 @@ media += somaidade / 4
 sleep(1)
 print('\033[1;33mFAZENDO ANALISE...\033[m')
 sleep(2)
-print(f'A media da idade do grupo é {media}')
+print(f'A média da idade do grupo é {media}')
 sleep(3)
 print(f'O homem mais velho se chama {nomevelho}, com {velho} anos')
 sleep(3)
